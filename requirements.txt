@@ -1,0 +1,10 @@
+# Python 3.10+ (tested on Python 3.14 with the versions noted on the right).
+requests>=2.31,<3          # tested 2.34.2 - HTTP client for scraping
+beautifulsoup4>=4.12,<5    # tested 4.15.0 - HTML parsing
+pandas>=2.1,<4             # tested 3.0.6  - cleaning / validation (pandas 3 needs Python 3.11+; 3.10 gets 2.x)
+openai>=3.30,<4            # tested 3.34.0 - OpenAI Python SDK (Chat Completions + Structured Outputs)
+python-dotenv>=1.0,<2      # tested 1.2.4  - loads OPENAI_API_KEY from the local .env file
+jsonschema>=4.18,<5        # tested 4.26.0 - local re-validation of the AI's JSON output
+
+# Testing
+pytest>=8,<10              # tested 9.1.1

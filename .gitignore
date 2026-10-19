@@ -1,0 +1,21 @@
+# Secrets - never commit or submit
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Local analysis cache (re-creatable; contains model outputs, not secrets)
+cache/
+
+# Build artefacts / editors
+dist/
+*.zip
+.idea/
+.vscode/

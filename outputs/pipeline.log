@@ -1,0 +1,183 @@
+2026-10-18 11:21:26 | INFO    | pipeline | Run started 2026-10-18T08:21:26Z (outputs -> D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs)
+2026-10-18 11:21:26 | INFO    | pipeline | Phase 1: scraping 3 source(s): Books to Scrape, WebScraper.io Test Shop, web-scraping.dev Store
+2026-10-18 11:21:26 | INFO    | scraper | [books_toscrape] Scraping Books to Scrape: 1 listing(s), at most 5 page(s) each
+2026-10-18 11:21:27 | INFO    | http_client | robots.txt https://books.toscrape.com/robots.txt: HTTP 404 (unavailable) - no crawl restrictions apply (RFC 9309)
+2026-10-18 11:21:28 | INFO    | scraper | [books_toscrape] Listing page 1: https://books.toscrape.com/catalogue/category/books/mystery_3/index.html (20 product cards)
+2026-10-18 11:21:28 | INFO    | scraper | [books_toscrape] Product 1: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-10-18 11:21:30 | INFO    | scraper | [books_toscrape] Product 2: https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+2026-10-18 11:21:32 | INFO    | scraper | [books_toscrape] Product 3: https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+2026-10-18 11:21:34 | INFO    | scraper | [books_toscrape] Product 4: https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+2026-10-18 11:21:36 | INFO    | scraper | [books_toscrape] Product 5: https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+2026-10-18 11:21:37 | INFO    | scraper | [books_toscrape] Product 6: https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html
+2026-10-18 11:21:39 | INFO    | scraper | [books_toscrape] Product 7: https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html
+2026-10-18 11:21:41 | INFO    | scraper | [books_toscrape] Product 8: https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html
+2026-10-18 11:21:43 | INFO    | scraper | [books_toscrape] Product 9: https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html
+2026-10-18 11:21:44 | INFO    | scraper | [books_toscrape] Product 10: https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html
+2026-10-18 11:21:46 | INFO    | scraper | [books_toscrape] Product 11: https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html
+2026-10-18 11:21:48 | INFO    | scraper | [books_toscrape] Product 12: https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html
+2026-10-18 11:21:50 | INFO    | scraper | [books_toscrape] Product 13: https://books.toscrape.com/catalogue/most-wanted_623/index.html
+2026-10-18 11:21:52 | INFO    | scraper | [books_toscrape] Product 14: https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html
+2026-10-18 11:21:53 | INFO    | scraper | [books_toscrape] Product 15: https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html
+2026-10-18 11:21:55 | INFO    | scraper | [books_toscrape] Product 16: https://books.toscrape.com/catalogue/the-widow_609/index.html
+2026-10-18 11:21:57 | INFO    | scraper | [books_toscrape] Product 17: https://books.toscrape.com/catalogue/playing-with-fire_602/index.html
+2026-10-18 11:21:59 | INFO    | scraper | [books_toscrape] Product 18: https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html
+2026-10-18 11:22:00 | INFO    | scraper | [books_toscrape] Product 19: https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html
+2026-10-18 11:22:02 | INFO    | scraper | [books_toscrape] Product 20: https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html
+2026-10-18 11:22:04 | INFO    | scraper | [books_toscrape] Next page: https://books.toscrape.com/catalogue/category/books/mystery_3/page-2.html
+2026-10-18 11:22:06 | INFO    | scraper | [books_toscrape] Listing page 2: https://books.toscrape.com/catalogue/category/books/mystery_3/page-2.html (12 product cards)
+2026-10-18 11:22:06 | INFO    | scraper | [books_toscrape] Product 21: https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html
+2026-10-18 11:22:08 | INFO    | scraper | [books_toscrape] Product 22: https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html
+2026-10-18 11:22:09 | INFO    | scraper | [books_toscrape] Product 23: https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html
+2026-10-18 11:22:11 | INFO    | scraper | [books_toscrape] Product 24: https://books.toscrape.com/catalogue/the-exiled_247/index.html
+2026-10-18 11:22:13 | INFO    | scraper | [books_toscrape] Product 25: https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html
+2026-10-18 11:22:15 | INFO    | scraper | [books_toscrape] Product 26: https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html
+2026-10-18 11:22:16 | INFO    | scraper | [books_toscrape] Product 27: https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html
+2026-10-18 11:22:18 | INFO    | scraper | [books_toscrape] Product 28: https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
+2026-10-18 11:22:20 | INFO    | scraper | [books_toscrape] Product 29: https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html
+2026-10-18 11:22:22 | INFO    | scraper | [books_toscrape] Product 30: https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html
+2026-10-18 11:22:24 | INFO    | scraper | [books_toscrape] Product 31: https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html
+2026-10-18 11:22:25 | INFO    | scraper | [books_toscrape] Product 32: https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html
+2026-10-18 11:22:27 | INFO    | scraper | [books_toscrape] Listing https://books.toscrape.com/catalogue/category/books/mystery_3/index.html done after 2 page(s): last_page
+2026-10-18 11:22:27 | INFO    | scraper | [books_toscrape] Finished: 32 record(s), 32 product page(s) fetched, 0 error(s)
+2026-10-18 11:22:27 | INFO    | scraper | [webscraper_io] Scraping WebScraper.io Test Shop: 1 listing(s), at most 3 page(s) each
+2026-10-18 11:22:27 | INFO    | http_client | robots.txt https://webscraper.io/robots.txt: group '*', 5 rule(s), crawl-delay None
+2026-10-18 11:22:29 | INFO    | scraper | [webscraper_io] Listing page 1: https://webscraper.io/test-sites/e-commerce/static/computers/laptops (6 product cards)
+2026-10-18 11:22:29 | INFO    | scraper | [webscraper_io] Next page: https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=2
+2026-10-18 11:22:31 | INFO    | scraper | [webscraper_io] Listing page 2: https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=2 (6 product cards)
+2026-10-18 11:22:31 | INFO    | scraper | [webscraper_io] Next page: https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=3
+2026-10-18 11:22:33 | INFO    | scraper | [webscraper_io] Listing page 3: https://webscraper.io/test-sites/e-commerce/static/computers/laptops?page=3 (6 product cards)
+2026-10-18 11:22:33 | INFO    | scraper | [webscraper_io] Listing https://webscraper.io/test-sites/e-commerce/static/computers/laptops done after 3 page(s): page_limit_reached
+2026-10-18 11:22:33 | INFO    | scraper | [webscraper_io] Finished: 18 record(s), 0 product page(s) fetched, 0 error(s)
+2026-10-18 11:22:33 | INFO    | scraper | [web_scraping_dev] Scraping web-scraping.dev Store: 3 listing(s), at most 5 page(s) each
+2026-10-18 11:22:33 | INFO    | http_client | robots.txt https://web-scraping.dev/robots.txt: group '*', 1 rule(s), crawl-delay 2.0
+2026-10-18 11:22:36 | INFO    | scraper | [web_scraping_dev] Listing page 1: https://web-scraping.dev/products?category=apparel (5 product cards)
+2026-10-18 11:22:36 | INFO    | scraper | [web_scraping_dev] Product 1: https://web-scraping.dev/product/7
+2026-10-18 11:22:39 | INFO    | scraper | [web_scraping_dev] Product 2: https://web-scraping.dev/product/8
+2026-10-18 11:22:41 | INFO    | scraper | [web_scraping_dev] Product 3: https://web-scraping.dev/product/9
+2026-10-18 11:22:44 | INFO    | scraper | [web_scraping_dev] Product 4: https://web-scraping.dev/product/10
+2026-10-18 11:22:46 | INFO    | scraper | [web_scraping_dev] Product 5: https://web-scraping.dev/product/11
+2026-10-18 11:22:49 | INFO    | scraper | [web_scraping_dev] Next page: https://web-scraping.dev/products?category=apparel&page=2
+2026-10-18 11:22:51 | INFO    | scraper | [web_scraping_dev] Listing page 2: https://web-scraping.dev/products?category=apparel&page=2 (5 product cards)
+2026-10-18 11:22:51 | INFO    | scraper | [web_scraping_dev] Product 6: https://web-scraping.dev/product/12
+2026-10-18 11:22:54 | INFO    | scraper | [web_scraping_dev] Product 7: https://web-scraping.dev/product/19
+2026-10-18 11:22:56 | INFO    | scraper | [web_scraping_dev] Product 8: https://web-scraping.dev/product/20
+2026-10-18 11:22:59 | INFO    | scraper | [web_scraping_dev] Product 9: https://web-scraping.dev/product/21
+2026-10-18 11:23:01 | INFO    | scraper | [web_scraping_dev] Product 10: https://web-scraping.dev/product/22
+2026-10-18 11:23:04 | INFO    | scraper | [web_scraping_dev] Next page: https://web-scraping.dev/products?category=apparel&page=3
+2026-10-18 11:23:06 | INFO    | scraper | [web_scraping_dev] Listing page 3: https://web-scraping.dev/products?category=apparel&page=3 (2 product cards)
+2026-10-18 11:23:06 | INFO    | scraper | [web_scraping_dev] Product 11: https://web-scraping.dev/product/23
+2026-10-18 11:23:08 | INFO    | scraper | [web_scraping_dev] Product 12: https://web-scraping.dev/product/24
+2026-10-18 11:23:11 | INFO    | scraper | [web_scraping_dev] Listing https://web-scraping.dev/products?category=apparel done after 3 page(s): last_page
+2026-10-18 11:23:13 | INFO    | scraper | [web_scraping_dev] Listing page 1: https://web-scraping.dev/products?category=consumables (5 product cards)
+2026-10-18 11:23:13 | INFO    | scraper | [web_scraping_dev] Product 13: https://web-scraping.dev/product/1
+2026-10-18 11:23:16 | INFO    | scraper | [web_scraping_dev] Product 14: https://web-scraping.dev/product/2
+2026-10-18 11:23:18 | INFO    | scraper | [web_scraping_dev] Product 15: https://web-scraping.dev/product/3
+2026-10-18 11:23:20 | INFO    | scraper | [web_scraping_dev] Product 16: https://web-scraping.dev/product/4
+2026-10-18 11:23:23 | INFO    | scraper | [web_scraping_dev] Product 17: https://web-scraping.dev/product/5
+2026-10-18 11:23:25 | INFO    | scraper | [web_scraping_dev] Next page: https://web-scraping.dev/products?category=consumables&page=2
+2026-10-18 11:23:28 | INFO    | scraper | [web_scraping_dev] Listing page 2: https://web-scraping.dev/products?category=consumables&page=2 (5 product cards)
+2026-10-18 11:23:28 | INFO    | scraper | [web_scraping_dev] Product 18: https://web-scraping.dev/product/6
+2026-10-18 11:23:30 | INFO    | scraper | [web_scraping_dev] Product 19: https://web-scraping.dev/product/13
+2026-10-18 11:23:32 | INFO    | scraper | [web_scraping_dev] Product 20: https://web-scraping.dev/product/14
+2026-10-18 11:23:35 | INFO    | scraper | [web_scraping_dev] Product 21: https://web-scraping.dev/product/15
+2026-10-18 11:23:37 | INFO    | scraper | [web_scraping_dev] Product 22: https://web-scraping.dev/product/16
+2026-10-18 11:23:40 | INFO    | scraper | [web_scraping_dev] Next page: https://web-scraping.dev/products?category=consumables&page=3
+2026-10-18 11:23:42 | INFO    | scraper | [web_scraping_dev] Listing page 3: https://web-scraping.dev/products?category=consumables&page=3 (5 product cards)
+2026-10-18 11:23:42 | INFO    | scraper | [web_scraping_dev] Product 23: https://web-scraping.dev/product/17
+2026-10-18 11:23:44 | INFO    | scraper | [web_scraping_dev] Product 24: https://web-scraping.dev/product/18
+2026-10-18 11:23:47 | INFO    | scraper | [web_scraping_dev] Product 25: https://web-scraping.dev/product/25
+2026-10-18 11:23:49 | INFO    | scraper | [web_scraping_dev] Product 26: https://web-scraping.dev/product/26
+2026-10-18 11:23:52 | INFO    | scraper | [web_scraping_dev] Product 27: https://web-scraping.dev/product/27
+2026-10-18 11:23:54 | INFO    | scraper | [web_scraping_dev] Next page: https://web-scraping.dev/products?category=consumables&page=4
+2026-10-18 11:23:56 | INFO    | scraper | [web_scraping_dev] Listing page 4: https://web-scraping.dev/products?category=consumables&page=4 (1 product cards)
+2026-10-18 11:23:56 | INFO    | scraper | [web_scraping_dev] Product 28: https://web-scraping.dev/product/28
+2026-10-18 11:23:59 | INFO    | scraper | [web_scraping_dev] Listing https://web-scraping.dev/products?category=consumables done after 4 page(s): last_page
+2026-10-18 11:24:01 | INFO    | scraper | [web_scraping_dev] Listing page 1: https://web-scraping.dev/products?category=household (0 product cards)
+2026-10-18 11:24:01 | WARNING | scraper | [web_scraping_dev] No product cards on https://web-scraping.dev/products?category=household (empty listing or changed markup); stopping this listing
+2026-10-18 11:24:01 | INFO    | scraper | [web_scraping_dev] Finished: 28 record(s), 28 product page(s) fetched, 0 error(s)
+2026-10-18 11:24:01 | INFO    | scraper | Scraping finished: 78 record(s) from 3 source(s), 0 error(s)
+2026-10-18 11:24:01 | INFO    | scraper | Saved 78 raw product record(s) to D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs\raw_products.json
+2026-10-18 11:24:01 | INFO    | pipeline | Phase 1 complete: 78 raw product records.
+2026-10-18 11:24:01 | INFO    | data_cleaner | Cleaning complete: 78 raw -> 62 clean (0 rejected, 0 same-URL and 16 same-content duplicates removed, 0 removed by validation, 0 price and 0 rating parse failures)
+2026-10-18 11:24:01 | INFO    | data_cleaner | Saved 62 cleaned records to D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs\cleaned_products.csv
+2026-10-18 11:24:01 | INFO    | competitor_context | Built competitor contexts for 62 products ({'same category and currency': 62})
+2026-10-18 11:24:01 | INFO    | pipeline | Phase 2 complete: 78 raw -> 62 clean records (0 rejected, 16 duplicates removed).
+2026-10-18 11:24:01 | INFO    | pipeline | Phase 3: analysing 62 products with openai/gpt-6-luna via openrouter.ai.
+2026-10-18 11:24:06 | INFO    | ai_analyzer | [1/62] Sharp Objects: success (in=1432 out=232 tokens)
+2026-10-18 11:24:11 | INFO    | ai_analyzer | [2/62] In a Dark, Dark Wood: success (in=1461 out=338 tokens)
+2026-10-18 11:24:15 | INFO    | ai_analyzer | [3/62] The Past Never Ends: success (in=1445 out=166 tokens)
+2026-10-18 11:24:22 | INFO    | ai_analyzer | [4/62] A Murder in Time: success (in=1433 out=397 tokens)
+2026-10-18 11:24:26 | INFO    | ai_analyzer | [5/62] The Murder of Roger Ackroyd (Hercule Poirot #4): success (in=1457 out=232 tokens)
+2026-10-18 11:24:30 | INFO    | ai_analyzer | [6/62] The Last Mile (Amos Decker #2): success (in=1435 out=213 tokens)
+2026-10-18 11:24:38 | INFO    | ai_analyzer | [7/62] That Darkness (Gardiner and Renner #1): success (in=1448 out=442 tokens)
+2026-10-18 11:24:46 | INFO    | ai_analyzer | [8/62] Tastes Like Fear (DI Marnie Rome #3): success (in=1483 out=442 tokens)
+2026-10-18 11:24:56 | INFO    | ai_analyzer | [9/62] A Time of Torment (Charlie Parker #14): success (in=1467 out=518 tokens)
+2026-10-18 11:25:00 | INFO    | ai_analyzer | [10/62] A Study in Scarlet (Sherlock Holmes #1): success (in=1490 out=234 tokens)
+2026-10-18 11:25:05 | INFO    | ai_analyzer | [11/62] Poisonous (Max Revere Novels #3): success (in=1458 out=269 tokens)
+2026-10-18 11:25:11 | INFO    | ai_analyzer | [12/62] Murder at the 42nd Street Library (Raymond Ambler #1): success (in=1482 out=370 tokens)
+2026-10-18 11:25:15 | INFO    | ai_analyzer | [13/62] Most Wanted: success (in=1418 out=229 tokens)
+2026-10-18 11:25:20 | INFO    | ai_analyzer | [14/62] Hide Away (Eve Duncan #20): success (in=1457 out=250 tokens)
+2026-10-18 11:25:25 | INFO    | ai_analyzer | [15/62] Boar Island (Anna Pigeon #19): success (in=1434 out=315 tokens)
+2026-10-18 11:25:32 | INFO    | ai_analyzer | [16/62] The Widow: success (in=1441 out=411 tokens)
+2026-10-18 11:25:39 | INFO    | ai_analyzer | [17/62] Playing with Fire: success (in=1446 out=406 tokens)
+2026-10-18 11:25:45 | INFO    | ai_analyzer | [18/62] What Happened on Beale Street (Secrets of the South Mysteries #2): success (in=1456 out=352 tokens)
+2026-10-18 11:25:49 | INFO    | ai_analyzer | [19/62] The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries…: success (in=1441 out=238 tokens)
+2026-10-18 11:25:54 | INFO    | ai_analyzer | [20/62] Delivering the Truth (Quaker Midwife Mystery #1): success (in=1449 out=239 tokens)
+2026-10-18 11:26:00 | INFO    | ai_analyzer | [21/62] The Mysterious Affair at Styles (Hercule Poirot #1): success (in=1381 out=393 tokens)
+2026-10-18 11:26:06 | INFO    | ai_analyzer | [22/62] In the Woods (Dublin Murder Squad #1): success (in=1456 out=359 tokens)
+2026-10-18 11:26:13 | INFO    | ai_analyzer | [23/62] The Silkworm (Cormoran Strike #2): success (in=1459 out=398 tokens)
+2026-10-18 11:26:17 | INFO    | ai_analyzer | [24/62] The Exiled: success (in=1452 out=238 tokens)
+2026-10-18 11:26:24 | INFO    | ai_analyzer | [25/62] The Cuckoo's Calling (Cormoran Strike #1): success (in=1472 out=425 tokens)
+2026-10-18 11:26:32 | INFO    | ai_analyzer | [26/62] Extreme Prey (Lucas Davenport #26): success (in=1431 out=417 tokens)
+2026-10-18 11:26:36 | INFO    | ai_analyzer | [27/62] Career of Evil (Cormoran Strike #3): success (in=1458 out=231 tokens)
+2026-10-18 11:26:42 | INFO    | ai_analyzer | [28/62] The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1): success (in=1370 out=381 tokens)
+2026-10-18 11:26:46 | INFO    | ai_analyzer | [29/62] The Girl You Lost: success (in=1441 out=235 tokens)
+2026-10-18 11:26:53 | INFO    | ai_analyzer | [30/62] The Girl In The Ice (DCI Erika Foster #1): success (in=1444 out=407 tokens)
+2026-10-18 11:27:00 | INFO    | ai_analyzer | [31/62] Blood Defense (Samantha Brinkman #1): success (in=1450 out=397 tokens)
+2026-10-18 11:27:07 | INFO    | ai_analyzer | [32/62] 1st to Die (Women's Murder Club #1): success (in=1451 out=421 tokens)
+2026-10-18 11:27:15 | INFO    | ai_analyzer | [33/62] Packard 255 G2: success (in=1304 out=450 tokens)
+2026-10-18 11:27:19 | INFO    | ai_analyzer | [34/62] Aspire E1-510: success (in=1301 out=224 tokens)
+2026-10-18 11:27:24 | INFO    | ai_analyzer | [35/62] ThinkPad T540p: success (in=1293 out=315 tokens)
+2026-10-18 11:27:28 | INFO    | ai_analyzer | [36/62] ProBook: success (in=1292 out=220 tokens)
+2026-10-18 11:27:35 | INFO    | ai_analyzer | [37/62] ThinkPad X240: success (in=1295 out=379 tokens)
+2026-10-18 11:27:40 | INFO    | ai_analyzer | [38/62] Aspire E1-572G: success (in=1305 out=342 tokens)
+2026-10-18 11:27:47 | INFO    | ai_analyzer | [39/62] ThinkPad Yoga: success (in=1296 out=394 tokens)
+2026-10-18 11:27:52 | INFO    | ai_analyzer | [40/62] Pavilion: success (in=1296 out=229 tokens)
+2026-10-18 11:27:59 | INFO    | ai_analyzer | [41/62] Inspiron 15: success (in=1307 out=426 tokens)
+2026-10-18 11:28:07 | INFO    | ai_analyzer | [42/62] Dell XPS 13: success (in=1299 out=422 tokens)
+2026-10-18 11:28:14 | INFO    | ai_analyzer | [43/62] ThinkPad X230: success (in=1296 out=412 tokens)
+2026-10-18 11:28:17 | INFO    | ai_analyzer | [44/62] HP 250 G3: success (in=1293 out=198 tokens)
+2026-10-18 11:28:25 | INFO    | ai_analyzer | [45/62] ThinkPad Yoga: success (in=1300 out=458 tokens)
+2026-10-18 11:28:33 | INFO    | ai_analyzer | [46/62] HP 350 G1: success (in=1303 out=488 tokens)
+2026-10-18 11:28:37 | INFO    | ai_analyzer | [47/62] Asus VivoBook Max: success (in=1323 out=191 tokens)
+2026-10-18 11:28:44 | INFO    | ai_analyzer | [48/62] Dell Vostro 15: success (in=1326 out=410 tokens)
+2026-10-18 11:28:51 | INFO    | ai_analyzer | [49/62] Acer Spin 5: success (in=1319 out=377 tokens)
+2026-10-18 11:28:56 | INFO    | ai_analyzer | [50/62] Acer Aspire A515-51-5654: success (in=1324 out=372 tokens)
+2026-10-18 11:29:03 | INFO    | ai_analyzer | [51/62] Hiking Boots for Outdoor Adventures: success (in=1460 out=414 tokens)
+2026-10-18 11:29:09 | INFO    | ai_analyzer | [52/62] Women's High Heel Sandals: success (in=1450 out=351 tokens)
+2026-10-18 11:29:14 | INFO    | ai_analyzer | [53/62] Running Shoes for Men: success (in=1459 out=333 tokens)
+2026-10-18 11:29:19 | INFO    | ai_analyzer | [54/62] Kids' Light-Up Sneakers: success (in=1475 out=272 tokens)
+2026-10-18 11:29:24 | INFO    | ai_analyzer | [55/62] Classic Leather Sneakers: success (in=1476 out=285 tokens)
+2026-10-18 11:29:31 | INFO    | ai_analyzer | [56/62] Cat-Ear Beanie: success (in=1552 out=382 tokens)
+2026-10-18 11:29:38 | INFO    | ai_analyzer | [57/62] Box of Chocolate Candy: success (in=1436 out=393 tokens)
+2026-10-18 11:29:43 | INFO    | ai_analyzer | [58/62] Dark Red Energy Potion: success (in=1410 out=281 tokens)
+2026-10-18 11:29:48 | INFO    | ai_analyzer | [59/62] Teal Energy Potion: success (in=1416 out=362 tokens)
+2026-10-18 11:29:54 | INFO    | ai_analyzer | [60/62] Red Energy Potion: success (in=1402 out=298 tokens)
+2026-10-18 11:30:00 | INFO    | ai_analyzer | [61/62] Blue Energy Potion: success (in=1441 out=369 tokens)
+2026-10-18 11:30:04 | INFO    | ai_analyzer | [62/62] Dragon Energy Potion: success (in=1400 out=209 tokens)
+2026-10-18 11:30:04 | INFO    | exporter | Wrote D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs\enriched_products.csv (62 rows, 35 columns)
+2026-10-18 11:30:04 | INFO    | exporter | Wrote D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs\full_analysis.json (62 analyzed products, 0 error records)
+2026-10-18 11:30:04 | INFO    | exporter | Wrote D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs\market_report.md
+2026-10-18 11:30:04 | INFO    | exporter | Export verification passed: 62 CSV rows, 62 analyzed products in JSON.
+2026-10-18 11:30:04 | INFO    | pipeline | 
+================================================================
+MarketScope pipeline finished
+  Products scraped / cleaned : 78 / 62
+  Analysed / failed          : 62 / 0
+  Model                      : openai/gpt-6-luna
+  API calls / total tokens   : 62 / 107,998
+  Estimated cost (USD)       : $0.020982 (estimate, not an invoice)
+  Enriched CSV               : D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs\enriched_products.csv
+  Full analysis JSON         : D:\python.tasks\afosh_axis\MostafaKmal_Module1_2_Capstone\outputs\full_analysis.json
+  Export verification        : passed
+================================================================
